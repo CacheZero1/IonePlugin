@@ -1,0 +1,36 @@
+name: Ione
+description: Stage 6 Items
+version: 1.0
+author: CacheZero1
+website: www.nuvoprojects.eu.org
+main: euorg.nuvoprojects.cachezero1.Plugin
+api-version: 1.14
+commands:
+  IoneI1:
+    description: Get Ione-Item 1
+    usage: /<command>
+  IoneI2:
+    description: Get Ione-Item 2
+    usage: /<command>
+  IoneI3:
+    description: Get Ione-Item 3
+    usage: /<command>
+  IoneI4:
+    description: Get Ione-Item 4
+    usage: /<command>
+  IoneAS1:
+    description: Get Ione-Armor-Set 1
+    usage: /<command>
+  IoneAS2:
+    description: Get Ione-Armor-Set 2
+    usage: /<command>
+  IoneAS3:
+    description: Get Ione-Armor-Set 3
+    usage: /<command>
+  IoneAS4:
+    description: Get Ione-Armor-Set 4
+    usage: /<command>
+  IoneATZ:
+    description: Get Ione-*
+    usage: /<command>
+
