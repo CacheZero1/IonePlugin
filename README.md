@@ -441,5 +441,3 @@ For the best performance, a database or any other kind of Data saving Method sho
 > This work is licensed under a [Creative Commons Attribution 4.0 International 
 > License](http://creativecommons.org/licenses/by/4.0/).
 
-> This work uses Public files provided by [Arnuh](https://github.com/Arnuh).
-> The files are publicly provided without a specified licence at [ArmorEquipEvent](https://github.com/Arnuh/ArmorEquipEvent).
