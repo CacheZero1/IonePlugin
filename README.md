@@ -76,16 +76,16 @@ Each Item and Armor has, or will have functionality.
 ### Ocelot's Sent Set
 - Mufasar's Enigmatic Mask
     - [Effects](#ocelot's-sent-set-effects)
-    - [Obtaining](#obtaining-the-mufasar's-enigmatic-mask)
+    - [Obtaining](#obtaining-mufasar's-enigmatic-mask)
 - Mufasar's Guardian Hauberk
     - [Effects](#ocelot's-sent-set-effects)
-    - [Obtaining](#obtaining-the-mufasar's-guardian-hauberk)
+    - [Obtaining](#obtaining-mufasar's-guardian-hauberk)
 - Mufasar's Whispering Greaves
     - [Effects](#ocelot's-sent-set-effects)
-    - [Obtaining](#obtaining-the-mufasar's-whispering-greaves)
+    - [Obtaining](#obtaining-mufasar's-whispering-greaves)
 - Mufasar's Prowess Treads
     - [Effects](#ocelot's-sent-set-effects)
-    - [Obtaining](#obtaining-the-mufasar's-prowess-treads)
+    - [Obtaining](#obtaining-mufasar's-prowess-treads)
 
 ----
 
@@ -286,110 +286,160 @@ The Recipe requires the Items to be arranged in the Following Order:
 
 ----
 
+## Chicken's Fly Armor Set
+### Chicken's Fly Set Effects
+
+Wearing the Full Chicken's Fly Armor Set will apply following Effects:
+- "Flight"
+    - Slow Falling
+- Safe Landing
+    - Fall Damage Immunity
+
+### Obtaining the Armor Set's Pieces
+##### Obtaining the Chicken's Fly Helmet
+
+The Chicken's Fly Helmet can be aquired through Crafting.
+The Recipe requires the Items to be arranged in the Following Order:
+
+|  |  |  |
+| ------ | ------ | ------ |
+| [Feather Block](#feather-blocks) (1) | [Feather Block](#feather-blocks) (1) | [Feather Block](#feather-blocks) (1) |
+| [Feather Block](#feather-blocks) (1) | Shears (1) | [Feather Block](#feather-blocks) (1) |
+|  |  |  |
+
+##### Obtaining the Chicken's Fly Wingsuit
+
+The Chicken's Fly Wingsuit can be aquired through Crafting.
+The Recipe requires the Items to be arranged in the Following Order:
+
+|  |  |  |
+| ------ | ------ | ------ |
+| [Feather Block](#feather-blocks) (1) | Shears (1) | [Feather Block](#feather-blocks) (1) |
+| [Feather Block](#feather-blocks) | [Feather Block](#feather-blocks) (1) | [Feather Block](#feather-blocks) (1) |
+| [Feather Block](#feather-blocks) (1) | [Feather Block](#feather-blocks) (1) | [Feather Block](#feather-blocks) (1) |
+
+##### Obtaining the Chicken's Fly Trousers
+
+The Chicken's Fly Trousers can be aquired through Crafting.
+The Recipe requires the Items to be arranged in the Following Order:
+
+|  |  |  |
+| ------ | ------ | ------ |
+| [Feather Block](#feather-blocks) (1) | [Feather Block](#feather-blocks) (1) | [Feather Block](#feather-blocks) (1) |
+| [Feather Block](#feather-blocks) (1) | Shears (1) | [Feather Block](#feather-blocks) (1) |
+| [Feather Block](#feather-blocks) (1) |  | [Feather Block](#feather-blocks) (1) |
+
+##### Obtaining the Chicken's Fly Shoes
+
+The Chicken's Fly Shoes can be aquired through Crafting.
+The Recipe requires the Items to be arranged in the Following Order:
+
+|  |  |  |
+| ------ | ------ | ------ |
+|  |  |  |
+| [Feather Block](#feather-blocks) (1) | Shears (1) | [Feather Block](#feather-blocks) (1) |
+| [Feather Block](#feather-blocks) (1) |  | [Feather Block](#feather-blocks) (1) |
+
+----
+
+## Ocelot's Sent Set
+### Ocelot's Sent Set Effects
+
+Wearing the Full Ocelot's Sent Armor Set will apply following Effects:
+- Hunting Speed
+    - Speed
+- Ocelot's Glutes
+    - Jump Boost
+
+### Obtaining the Armor Set's Pieces
+##### Obtaining Mufasar's Enigmatic Mask
+
+Mufasar's Enigmatic Mask can be aquired through Crafting.
+The Recipe requires the Items to be arranged in the Following Order:
+
+|  |  |  |
+| ------ | ------ | ------ |
+| [Ocelot's Blessing](#ocelot's-blessings) (1) | [Ocelot's Blessing](#ocelot's-blessings) (1) | [Ocelot's Blessing](#ocelot's-blessings) (1) |
+| [Ocelot's Blessing](#ocelot's-blessings) (1) |  | [Ocelot's Blessing](#ocelot's-blessings) (1) |
+|  |  |  |
+
+##### Obtaining Mufasar's Guardian Hauberk
+
+Mufasar's Guardian Hauberk can be aquired through Crafting.
+The Recipe requires the Items to be arranged in the Following Order:
+
+|  |  |  |
+| ------ | ------ | ------ |
+| [Ocelot's Blessing](#ocelot's-blessings) (1) |  | [Ocelot's Blessing](#ocelot's-blessings) (1) |
+| [Ocelot's Blessing](#ocelot's-blessings) (1) | [Ocelot's Blessing](#ocelot's-blessings) (1) | [Ocelot's Blessing](#ocelot's-blessings) (1) |
+| [Ocelot's Blessing](#ocelot's-blessings) (1) | [Ocelot's Blessing](#ocelot's-blessings) (1) | [Ocelot's Blessing](#ocelot's-blessings) (1) |
+
+##### Obtaining Mufasar's Whispering Greaves
+
+Mufasar's Whispering Greaves can be aquired through Crafting.
+The Recipe requires the Items to be arranged in the Following Order:
+
+|  |  |  |
+| ------ | ------ | ------ |
+| [Ocelot's Blessing](#ocelot's-blessings) (1) | [Ocelot's Blessing](#ocelot's-blessings) (1) | [Ocelot's Blessing](#ocelot's-blessings) (1) |
+| [Ocelot's Blessing](#ocelot's-blessings) (1) |  | [Ocelot's Blessing](#ocelot's-blessings) (1) |
+| [Ocelot's Blessing](#ocelot's-blessings) (1) |  | [Ocelot's Blessing](#ocelot's-blessings) (1) |
+
+##### Obtaining Mufasar's Prowess Treads
+
+Mufasar's Prowess Treads can be aquired through Crafting.
+The Recipe requires the Items to be arranged in the Following Order:
+
+|  |  |  |
+| ------ | ------ | ------ |
+|  |  |  |
+| [Ocelot's Blessing](#ocelot's-blessings) (1) |  | [Ocelot's Blessing](#ocelot's-blessings) (1) |
+| [Ocelot's Blessing](#ocelot's-blessings) (1) |  | [Ocelot's Blessing](#ocelot's-blessings) (1) |
+
+----
+
 ## Installation
+### Method 1: Download
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
+Simply go to the **releases** tab and download the latest release
 
-Install the dependencies and devDependencies and start the server.
+### Method 2: Self Compile
 
-```sh
-cd dillinger
-npm i
-node app
-```
+**Since my work is licences under the Creative Commons (By) licence, you are free to modify, sell and redistribute this plugin, as long as Attribution is provided.**
 
-For production environments...
+##### Step 1:
 
-```sh
-npm install --production
-NODE_ENV=production node app
-```
-
-## Plugins
-
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-
-## Development
-
-Want to contribute? Great!
-
-Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantaneously see your updates!
-
-Open your favorite Terminal and run these commands.
-
-First Tab:
+Clone this Repo:
 
 ```sh
-node app
+git clone https://github.com/CacheZero1/IonePlugin.git
 ```
 
-Second Tab:
+##### Step 2:
 
-```sh
-gulp watch
-```
+Export to JAR
+This Project is a standalone Java Project without Gradle or Maven.
 
-(optional) Third:
+----
 
-```sh
-karma test
-```
+## Configuration
 
-#### Building for source
+It is not recommended to edit this Plugin's config.yml.
 
-For production release:
+Important Configuration:
+- The Armor Effects work by setting display names, which don't get saved when Players disconnect.
+- The cultlair World doesn't have any special environment. For the best experience, build something there!
+- This Plugin uses the [ArmorEquipEvent](https://github.com/Arnuh/ArmorEquipEvent) by [Arnuh](https://github.com/Arnuh/). The config.yml file is used by these files.
+- The cultlair World can be visited an infinite amount of times.
 
-```sh
-gulp build --prod
-```
+For the best performance, a database or any other kind of Data saving Method should be used, to make this Plugin work correctly.
 
-Generating pre-built zip archives for distribution:
+----
 
-```sh
-gulp build dist --prod
-```
+## Licence and Attribution
 
-## Docker
+> This work is licensed under a [Creative Commons Attribution 4.0 International 
+> License](http://creativecommons.org/licenses/by/4.0/).
 
-Dillinger is very easy to install and deploy in a Docker container.
-
-By default, the Docker will expose port 8080, so change this within the
-Dockerfile if necessary. When ready, simply use the Dockerfile to
-build the image.
-
-```sh
-cd dillinger
-docker build -t <youruser>/dillinger:${package.json.version} .
-```
-
-This will create the dillinger image and pull in the necessary dependencies.
-Be sure to swap out `${package.json.version}` with the actual
-version of Dillinger.
-
-Once done, run the Docker image and map the port to whatever you wish on
-your host. In this example, we simply map port 8000 of the host to
-port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
-
-```sh
-docker run -d -p 8000:8080 --restart=always --cap-add=SYS_ADMIN --name=dillinger <youruser>/dillinger:${package.json.version}
-```
-
-> Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
-
-Verify the deployment by navigating to your server address in
-your preferred browser.
-
-```sh
-127.0.0.1:8000
-```
+> This work uses Public files provided by [Arnuh](https://github.com/Arnuh).
+> The files are publicly provided without a specified licence at [ArmorEquipEvent](https://github.com/Arnuh/ArmorEquipEvent).
