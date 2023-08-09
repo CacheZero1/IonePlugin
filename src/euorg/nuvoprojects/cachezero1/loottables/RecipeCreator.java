@@ -30,6 +30,10 @@ public class RecipeCreator {
     private static ShapedRecipe chickenflyLeggings;
     private static ShapedRecipe chickenflyBoots;
     
+    private static ShapedRecipe ocelotssentHelmet;
+    private static ShapedRecipe ocelotssentChestplate;
+    private static ShapedRecipe ocelotssentLeggings;
+    private static ShapedRecipe ocelotssentBoots;
 
     public static void init() {
 
@@ -38,6 +42,7 @@ public class RecipeCreator {
         createCultistArmorRecipes();
         createRussianFurArmorRecipes();
         createChickenFlyArmorRecipes();
+        createOcelotsSentArmorRecipes();
 
         // Add Recipes
         addRecipes();
@@ -144,6 +149,30 @@ public class RecipeCreator {
 
     }
 
+    private static void createOcelotsSentArmorRecipes() {
+
+        // Recipe (Ocelot's Sent Armor Helmet)
+        ocelotssentHelmet = new ShapedRecipe(NamespacedKey.minecraft("ione_ocelotssenthelmet"), ArmorCreator.ocelotHelmet);
+        ocelotssentHelmet.shape("OOO", "O O", "   ");
+        ocelotssentHelmet.setIngredient('O', new RecipeChoice.ExactChoice(ItemCreator.ocelotsBlessing));
+
+        // Recipe (Ocelot's Sent Armor Chestplate)
+        ocelotssentChestplate = new ShapedRecipe(NamespacedKey.minecraft("ione_ocelotssentchestplate"), ArmorCreator.ocelotChestplate);
+        ocelotssentChestplate.shape("O O", "OOO", "OOO");
+        ocelotssentChestplate.setIngredient('O', new RecipeChoice.ExactChoice(ItemCreator.ocelotsBlessing));
+
+        // Recipe (Ocelot's Sent Armor Leggings)
+        ocelotssentLeggings = new ShapedRecipe(NamespacedKey.minecraft("ione_ocelotssentleggings"), ArmorCreator.ocelotLeggings);
+        ocelotssentLeggings.shape("OOO", "O O", "O O");
+        ocelotssentLeggings.setIngredient('O', new RecipeChoice.ExactChoice(ItemCreator.ocelotsBlessing));
+
+        // Recipe (Ocelot's Sent Armor Boots)
+        ocelotssentBoots = new ShapedRecipe(NamespacedKey.minecraft("ione_ocelotssentboots"), ArmorCreator.ocelotBoots);
+        ocelotssentBoots.shape("   ", "O O", "O O");
+        ocelotssentBoots.setIngredient('O', new RecipeChoice.ExactChoice(ItemCreator.ocelotsBlessing));
+
+    }
+
     private static void addRecipes() {
 
         // Items
@@ -168,7 +197,10 @@ public class RecipeCreator {
         Bukkit.getServer().addRecipe(chickenflyBoots);
 
         // Armor (Ocelot's Sent Set)
-
+        Bukkit.getServer().addRecipe(ocelotssentHelmet);
+        Bukkit.getServer().addRecipe(ocelotssentChestplate);
+        Bukkit.getServer().addRecipe(ocelotssentLeggings);
+        Bukkit.getServer().addRecipe(ocelotssentBoots);
 
     }
     
