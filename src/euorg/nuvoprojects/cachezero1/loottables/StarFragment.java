@@ -40,7 +40,7 @@ public class StarFragment implements Listener {
 
                 Random random = new Random();
 
-                if (random.nextInt(101) <= 100) {
+                if (random.nextInt(101) <= 2) {
                 
                     event.getDrops().clear(); 
                     event.getDrops().add(ItemCreator.starFragment);

@@ -18,6 +18,7 @@ import euorg.nuvoprojects.cachezero1.events.VanillaBlock;
 import euorg.nuvoprojects.cachezero1.items.ArmorCreator;
 import euorg.nuvoprojects.cachezero1.items.ItemCreator;
 import euorg.nuvoprojects.cachezero1.loottables.RecipeCreator;
+import euorg.nuvoprojects.cachezero1.loottables.StarFragment;
 
 public class Plugin extends JavaPlugin {
     
@@ -66,6 +67,8 @@ public class Plugin extends JavaPlugin {
         getServer().getPluginManager().registerEvents(new RussianFurListener(), this);
         getServer().getPluginManager().registerEvents(new ChickenFlyListener(), this);
         getServer().getPluginManager().registerEvents(new OcelotListener(), this);
+
+        getServer().getPluginManager().registerEvents(new StarFragment(), this);
 
         // Enabled Message
         getLogger().info("Enabled Successfully [Ione-1.16.5]");
