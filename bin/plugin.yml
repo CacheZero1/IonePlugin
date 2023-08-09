@@ -9,28 +9,77 @@ commands:
   IoneI1:
     description: Get Ione-Item 1
     usage: /<command>
+    permission: ione.itone
   IoneI2:
     description: Get Ione-Item 2
     usage: /<command>
+    permission: ione.ittwo
   IoneI3:
     description: Get Ione-Item 3
     usage: /<command>
+    permission: ione.itthree
   IoneI4:
     description: Get Ione-Item 4
     usage: /<command>
+    permission: ione.itfour
   IoneAS1:
     description: Get Ione-Armor-Set 1
     usage: /<command>
+    permission: ione.itfive
   IoneAS2:
     description: Get Ione-Armor-Set 2
     usage: /<command>
+    permission: ione.itsix
   IoneAS3:
     description: Get Ione-Armor-Set 3
     usage: /<command>
+    permission: ione.itseven
   IoneAS4:
     description: Get Ione-Armor-Set 4
     usage: /<command>
+    permission: ione.iteight
   IoneATZ:
     description: Get Ione-*
     usage: /<command>
+    permissione: ione.itnine
+permissions:
+  ione.*:
+    description: Gives access to all Ione commands
+      children:
+        ione.itone: true
+        ione.ittwo: true
+        ione.itthree: true
+        ione.itfour: true
+        ione.itfive: true
+        ione.itsix: true
+        ione.itseven: true
+        ione.iteight: true
+        ione.itnine: true
+  ione.itone:
+    description: Access to Ione-Item 1
+    default: op
+  ione.ittwo:
+    description: Access to Ione-Item 2
+    default: op
+  ione.itthree:
+    description: Access to Ione-Item 3
+    default: op
+  ione.itfour:
+    description: Access to Ione-Item 4
+    default: op
+  ione.itfive:
+    description: Access to Ione-Armor 1
+    default: op
+  ione.itsix:
+    description: Access to Ione-Armor 2
+    default: op
+  ione.itseven:
+    description: Access to Ione-Armor 3
+    default: op
+  ione.iteight:
+    description: Access to Ione-Armor 4
+    default: op
+  ione.itnine:
+    description: Access to Ione-*
+    default: op
 

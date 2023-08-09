@@ -162,10 +162,10 @@ public class ArmorCreator {
         leggingsMeta.setColor(Color.WHITE);
         bootsMeta.setColor(Color.WHITE);
 
-        helmetMeta.setDisplayName("" + ChatColor.BOLD + ChatColor.GRAY + "Helm of the Conqueror");
-        chestplateMeta.setDisplayName("" + ChatColor.BOLD + ChatColor.GRAY + "Valiant Heartplate of the Northlands");
-        leggingsMeta.setDisplayName("" + ChatColor.BOLD + ChatColor.GRAY + "Battlegear of the Frostborne");
-        bootsMeta.setDisplayName("" + ChatColor.BOLD + ChatColor.GRAY + "Boots of Eternal Expeditions");
+        helmetMeta.setDisplayName("" + ChatColor.BOLD + ChatColor.GRAY + "Broken Helm of the Conqueror");
+        chestplateMeta.setDisplayName("" + ChatColor.BOLD + ChatColor.GRAY + "Broken Valiant Heartplate of the Northlands");
+        leggingsMeta.setDisplayName("" + ChatColor.BOLD + ChatColor.GRAY + "Broken Battlegear of the Frostborne");
+        bootsMeta.setDisplayName("" + ChatColor.BOLD + ChatColor.GRAY + "Broken Boots of Eternal Expeditions");
 
         helmetMeta.setUnbreakable(true);
         chestplateMeta.setUnbreakable(true);
@@ -192,15 +192,15 @@ public class ArmorCreator {
         leggingsLore.add(" ");
         bootsLore.add(" ");
 
-        helmetLore.add("" + ChatColor.AQUA + ChatColor.UNDERLINE +"Full Viking Fur Set Bonus:");
-        chestplateLore.add("" + ChatColor.AQUA + ChatColor.UNDERLINE + "Full Viking Fur Set Bonus:");
-        leggingsLore.add("" + ChatColor.AQUA + ChatColor.UNDERLINE +"Full Viking Fur Set Bonus:");
-        bootsLore.add("" + ChatColor.AQUA + ChatColor.UNDERLINE + "Full Viking Fur Set Bonus:");
+        helmetLore.add("" + ChatColor.AQUA + ChatColor.UNDERLINE +"Full Broken Viking Fur Set Bonus:");
+        chestplateLore.add("" + ChatColor.AQUA + ChatColor.UNDERLINE + "Full Broken Viking Fur Set Bonus:");
+        leggingsLore.add("" + ChatColor.AQUA + ChatColor.UNDERLINE +"Full Broken Viking Fur Set Bonus:");
+        bootsLore.add("" + ChatColor.AQUA + ChatColor.UNDERLINE + "Full Broken Viking Fur Set Bonus:");
 
-        helmetLore.add(ChatColor.WHITE + "- Resistance");
-        chestplateLore.add(ChatColor.WHITE + "- Resistance");
-        leggingsLore.add(ChatColor.WHITE + "- Resistance");
-        bootsLore.add(ChatColor.WHITE + "- Resistance");
+        helmetLore.add(ChatColor.WHITE + "- Winter Toughness");
+        chestplateLore.add(ChatColor.WHITE + "- Winter Toughness");
+        leggingsLore.add(ChatColor.WHITE + "- Winter Toughness");
+        bootsLore.add(ChatColor.WHITE + "- Winter Toughness");
 
         helmetLore.add(ChatColor.WHITE + "- Wolf's Strength");
         chestplateLore.add(ChatColor.WHITE + "- Wolf's Strength");
@@ -299,15 +299,15 @@ public class ArmorCreator {
         leggingsLore.add("" + ChatColor.AQUA + ChatColor.UNDERLINE +"Full Chicken's Fly Set Bonus:");
         bootsLore.add("" + ChatColor.AQUA + ChatColor.UNDERLINE + "Full Chicken's Fly Set Bonus:");
 
-        helmetLore.add(ChatColor.WHITE + "- Slow Falling");
-        chestplateLore.add(ChatColor.WHITE + "- Slow Falling");
-        leggingsLore.add(ChatColor.WHITE + "- Slow Falling");
-        bootsLore.add(ChatColor.WHITE + "- Slow Falling");
+        helmetLore.add(ChatColor.WHITE + "- \"Flight\"");
+        chestplateLore.add(ChatColor.WHITE + "- \"Flight\"");
+        leggingsLore.add(ChatColor.WHITE + "- \"Flight\"");
+        bootsLore.add(ChatColor.WHITE + "- \"Flight\"");
 
-        helmetLore.add(ChatColor.WHITE + "- Fall Immunity");
-        chestplateLore.add(ChatColor.WHITE + "- Fall Immunity");
-        leggingsLore.add(ChatColor.WHITE + "- Fall Immunity");
-        bootsLore.add(ChatColor.WHITE + "- Fall Immunity");
+        helmetLore.add(ChatColor.WHITE + "- Safe Landing");
+        chestplateLore.add(ChatColor.WHITE + "- Safe Landing");
+        leggingsLore.add(ChatColor.WHITE + "- Safe Landing");
+        bootsLore.add(ChatColor.WHITE + "- Safe Landing");
 
         helmetMeta.setLore(helmetLore);
         chestplateMeta.setLore(chestplateLore);
@@ -361,7 +361,7 @@ public class ArmorCreator {
         leggingsMeta.setColor(Color.YELLOW);
         bootsMeta.setColor(Color.YELLOW);
 
-        helmetMeta.setDisplayName("" + ChatColor.BOLD + ChatColor.GRAY + "Mufasar's Enigmatic Mask:");
+        helmetMeta.setDisplayName("" + ChatColor.BOLD + ChatColor.GRAY + "Mufasar's Enigmatic Mask");
         chestplateMeta.setDisplayName("" + ChatColor.BOLD + ChatColor.GRAY + "Mufasar's Guardian Hauberk");
         leggingsMeta.setDisplayName("" + ChatColor.BOLD + ChatColor.GRAY + "Mufasar's Whispering Greaves");
         bootsMeta.setDisplayName("" + ChatColor.BOLD + ChatColor.GRAY + "Mufasar's Prowess Treads");

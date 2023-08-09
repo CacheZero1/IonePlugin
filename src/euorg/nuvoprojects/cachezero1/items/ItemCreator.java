@@ -76,7 +76,7 @@ public class ItemCreator {
 
         // Edit Meta
         meta.setDisplayName(ChatColor.YELLOW + "Ocelot's Blessing");
-        meta.setLore(Collections.singletonList(ChatColor.GRAY + "Obtained by gifting the anxious"));
+        meta.setLore(Collections.singletonList(ChatColor.GRAY + "A gift from Mustafar"));
         meta.addEnchant(Enchantment.LUCK, 1, false);
         meta.addItemFlags(ItemFlag.HIDE_ATTRIBUTES);
         meta.addItemFlags(ItemFlag.HIDE_ENCHANTS);

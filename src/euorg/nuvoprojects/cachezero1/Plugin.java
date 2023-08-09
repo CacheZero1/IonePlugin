@@ -10,6 +10,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 import euorg.nuvoprojects.cachezero1.customevent.ArmorListener;
 import euorg.nuvoprojects.cachezero1.armorevent.ChickenFlyListener;
 import euorg.nuvoprojects.cachezero1.armorevent.CultistListener;
+import euorg.nuvoprojects.cachezero1.armorevent.OcelotListener;
 import euorg.nuvoprojects.cachezero1.armorevent.RussianFurListener;
 import euorg.nuvoprojects.cachezero1.commands.ItemCommands;
 import euorg.nuvoprojects.cachezero1.events.ItemEffects;
@@ -64,6 +65,7 @@ public class Plugin extends JavaPlugin {
         getServer().getPluginManager().registerEvents(new CultistListener(), this);
         getServer().getPluginManager().registerEvents(new RussianFurListener(), this);
         getServer().getPluginManager().registerEvents(new ChickenFlyListener(), this);
+        getServer().getPluginManager().registerEvents(new OcelotListener(), this);
 
         // Enabled Message
         getLogger().info("Enabled Successfully [Ione-1.16.5]");
