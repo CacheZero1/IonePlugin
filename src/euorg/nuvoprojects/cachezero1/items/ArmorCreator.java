@@ -43,6 +43,7 @@ public class ArmorCreator {
         createCultistSet();
         createRussianFurSet();
         createChickenFlySet();
+        createOcelotsSentSet();
 
     }
 
@@ -342,7 +343,7 @@ public class ArmorCreator {
 
     }
 
-    public void createOcelotsSentSet() {
+    private static void createOcelotsSentSet() {
 
         // Create new Item
         ItemStack helmet = new ItemStack(Material.LEATHER_HELMET, 1);
